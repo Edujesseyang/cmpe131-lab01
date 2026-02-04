@@ -1,0 +1,9 @@
+Based on this lab, 
+why is using branches a powerful and safe way for a team of software engineers to collaborate on a single project?
+Answer: When multiple programmer are working together, they many have to modify a same file from different devices.
+By using branch, they can create their own branch, then edit the file on their own pace. After their finished their
+editing. The team leader of code reviewer will merge everybody's work together.
+
+ What problems might it prevent?
+Answer: It prevent code conflict that cause by multiple programmer editing a same file.
+
